@@ -31,3 +31,104 @@ Product image is scaled to be on pair with all the other product images and the 
 **Notes:**
 - Attached screenshot
 ![This is an image](https://i.ibb.co/B4NgtL4/Screenshot-1.png)
+
+_______________________________________________________________
+
+### Title: <Placeholder> ###
+
+**Priority & Severity:**
+<Placeholder>
+
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Actual result:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <Placeholder>
+
+**Notes:**
+- <Placeholder>
+
+_______________________________________________________________
+
+### Title: <Placeholder> ###
+
+**Priority & Severity:**
+<Placeholder>
+
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Actual result:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <Placeholder>
+
+**Notes:**
+- <Placeholder>
+
+_______________________________________________________________
+
+### Title: <Placeholder> ###
+
+**Priority & Severity:**
+<Placeholder>
+
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Actual result:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <Placeholder>
+
+**Notes:**
+- <Placeholder>
+
+_______________________________________________________________
+
+### Title: <Placeholder> ###
+
+**Priority & Severity:**
+<Placeholder>
+
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Actual result:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <Placeholder>
+
+**Notes:**
+- <Placeholder>
+
