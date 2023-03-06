@@ -64,8 +64,9 @@ The number of items displayed in the basket is not changing even if the user cha
 
 **Notes:**
 - Attached video
-![This is a video]https://user-images.githubusercontent.com/109429617/223282252-b44ed993-9289-4c8a-9dba-a61bca5f5451.mp4
 
+
+https://user-images.githubusercontent.com/109429617/223282602-5abcf88f-7a7b-4d29-8443-ba9b849579f5.mp4
 
 
 _______________________________________________________________
