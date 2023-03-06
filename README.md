@@ -34,28 +34,39 @@ Product image is scaled to be on pair with all the other product images and the 
 
 _______________________________________________________________
 
-### Title: <Placeholder> ###
+### Title: OWASP Juice Shop - Displayed number of items in basket is wrongly shown ###
 
 **Priority & Severity:**
-<Placeholder>
+P2 & Medium
 
 **Description:**
-<Placeholder>
+The number of items in basket is wrongly displayed after changing the username.
   
 **Steps to reproduce:**
-<Placeholder>
+1. Go to OWASP Juice Shop (https://juice-shop.herokuapp.com)
+2. Click on ”Account” then ”Log in”
+3. Enter correct credentials
+4. Add any item to the basket
+5. Go to account and click on account email
+6. Change the username
+7. Go to the main page
+8. Observe the number of items displayed in the basket is now 0
 
 **Actual result:**
-<Placeholder>
+The number of items displayed in the basket is 0 after changing the username.
 
 **Expected result:**
-<Placeholder>
+The number of items displayed in the basket is not changing even if the user changes his username.
 
 **Test Data:**
-- <Placeholder>
+- Email: Test123@test.com
+- Password: Test123
 
 **Notes:**
-- <Placeholder>
+- Attached video
+https://user-images.githubusercontent.com/109429617/223282252-b44ed993-9289-4c8a-9dba-a61bca5f5451.mp4
+
+
 
 _______________________________________________________________
 
